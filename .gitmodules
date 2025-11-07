@@ -1,3 +1,6 @@
 [submodule "submodules/fast-agent"]
 	path = submodules/fast-agent
 	url = https://github.com/evalstate/fast-agent.git
+[submodule "submodules/crawl4ai"]
+	path = submodules/crawl4ai
+	url = https://github.com/unclecode/crawl4ai.git
